@@ -1,4 +1,5 @@
-# Dependencies
+  
+  # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
@@ -7,15 +8,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Software Carpentry Wrap-Up
+tagline:          'Resources from the two-day Python/Unix website'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://github.com/drarnakarick/Software-Carpentry-Wrap-up
+baseurl:          /Software-Carpentry-Wrap-up/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Arna Karick'
+  url:            https://twitter.com/drarnakarick
 
 paginate:         5
 
@@ -23,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/drarnakarick/Software-Carpentry-Wrap-up
