@@ -8,7 +8,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Software Carpentry Wrap-Up
+title:            Software Carpentry at Swinburne
 tagline:          'Resources from the two-day Python/Unix website'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://github.com/drarnakarick/software-carpentry-resources
