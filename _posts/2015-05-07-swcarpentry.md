@@ -15,3 +15,6 @@ Earlier this week we ran the first two-day Unix/Python workshop for PhD students
 * [Reference page for the Unix Shell](http://software-carpentry.org/v5/novice/ref/01-shell.html).
 * [Reference page for Programming in Python](http://software-carpentry.org/v5/novice/ref/03-python.html).
 * [Reference page for Version Control with Git](http://software-carpentry.org/v5/novice/ref/02-git.html).
+
+
+<iframe width="560" height="180" src="http://evilangelpixie.github.io/d3js/public/demo1.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
