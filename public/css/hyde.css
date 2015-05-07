@@ -31,8 +31,11 @@
  * Update the foundational and global aspects of the page.
  */
 
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", serif;
 }
 @media (min-width: 48em) {
   html {
