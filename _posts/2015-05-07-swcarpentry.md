@@ -20,4 +20,4 @@ Earlier this week we ran the first two-day Unix/Python workshop for PhD students
 
 Thirty-five people registered for the workshop.
 
-<iframe width="560" height="180" src="http://drarnakarick.github.io/software-carpentry-resources/public/participant_profile.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="700" height="700" src="http://drarnakarick.github.io/software-carpentry-resources/public/participant_profile.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
