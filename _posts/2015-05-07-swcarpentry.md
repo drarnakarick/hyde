@@ -46,10 +46,10 @@ Also, here are few short presentations about the Unix shell, Python and version 
 * Keep in touch with your fellow workshop participants. 
 * Practise by working on small programs/data analysis with researchers in your own group/field.
 * Attend the next Software Carpentry workshop (at Swinburne or Melbourne Uni).
-* Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/).
-* Come along to e-Research coffee and meet fellow students and researchers interested in data analysis and visualisation. Thursday's - 3pm at Haddons.
+* Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/) and start a project using your Python skills.
+* Network. Meet fellow students and researchers interested in data analysis and visualisation. e-Research Coffee is every Thursday - 3pm at Haddons.
 
-#### Profile of workshop participants
+## Some statistics:  Profile of workshop participants
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
