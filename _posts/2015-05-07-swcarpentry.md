@@ -23,7 +23,8 @@ Thirty-five people registered for the workshop.
 
 <iframe width="100%" height="800" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-<iframe width="100%" height="800" src="http://drarnakarick.github.io/software-carpentry-resources/public/ewoks.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
+This script ([participants.html](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.html)) and data [participants.csv](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv)) used to generate the above plot can be downloaded from this resources repository. The template was created by [@evilangelpixie](http://twitter.com/evilangelpixie) and is based on the [Sunburst Sequence](http://bl.ocks.org/kerryrodden/7090426m) template. 
 
 
 
