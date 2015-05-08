@@ -33,12 +33,10 @@ The structure of the workshop was guided teaching with group challenges thrown i
 
 #### Profile of workshop participants
 
-
-
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
-This script (participants.html) and data (participants.csv) used to generate the above plot can be downloaded from this [resources repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
+This script (participants.html) and template data (participants_template.csv) for generating the above plot can be downloaded from this [resources  repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
 
 
 
