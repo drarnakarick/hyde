@@ -43,19 +43,15 @@ Also, here are few short presentations about the Unix shell, Python and version 
 
 #### Most importantly... keep programming!
 
-Here are some ideas how:
-
 * Keep in touch with your fellow workshop participants. 
 * Practise by working on small programs/data analysis with researchers in your own group/field.
-* Attend the next Software Carpentry workshop, at Swinburne or Melbourne Uni. 
+* Attend the next Software Carpentry workshop (at Swinburne or Melbourne Uni).
 * Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/).
-* Come along to e-Research coffee and meet fellow students and researchers interested in data analysis and visualisation. Thursday's, 3pm at Haddons.
-
+* Come along to e-Research coffee and meet fellow students and researchers interested in data analysis and visualisation. Thursday's - 3pm at Haddons.
 
 #### Profile of workshop participants
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-
 
 This script (participants.html) and template data (participants_template.csv) for generating the above plot can be downloaded from this [resources  repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
 
