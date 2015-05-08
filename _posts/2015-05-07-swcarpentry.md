@@ -57,6 +57,7 @@ Thirty people attended part or all of the workshop. Roughly half the participant
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <strong>Research Group/Department:</strong>
+
 * CAS - Centre for Astrophysics and Supercomputing
 * CMP - Centre for Micro-Photonics
 * BPsyC - Brain and Psychological Sciences Research Centre
