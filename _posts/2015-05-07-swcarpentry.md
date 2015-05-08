@@ -40,7 +40,6 @@ Also, here are few short presentations about the Unix shell, Python and version 
 * Python: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/03-python.html).
 * Version control - Git: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/02-git.html).
 
-
 #### Most importantly... keep programming!
 
 * Keep in touch with your fellow workshop participants. 
@@ -56,7 +55,8 @@ Also, here are few short presentations about the Unix shell, Python and version 
 Thirty people attended part or all of the workshop. Roughly half the participants were women, with an even split between PhD students (light grey - outer ring) and established research postdocs and staff (dark grey - outer ring). 
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<strong>Research Group/Department:</strong>
+
+Research Group/Department:
 
 * CAS - Centre for Astrophysics and Supercomputing
 * CMP - Centre for Micro-Photonics
