@@ -55,20 +55,21 @@ Also, here are few short presentations about the Unix shell, Python and version 
 
 Thirty people attended part or all of the workshop. Roughly half the participants were women, with an even split between PhD students (light grey - outer ring) and established research postdocs and staff (dark grey - outer ring). 
 
-<iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Breakdown of participants by Research Group/Department:
+Research Group/Department:
 
-* CAS - Centre for Astrophysics &amp; Supercomputing
+* CAS - Centre for Astrophysics and Supercomputing
 * CMP - Centre for Micro-Photonics
 * BPsyC - Brain and Psychological Sciences Research Centre
-* CHP - Centre for Human Psychophamacology.
-* COEST - Centre for Ocean Engineering
+* CHP - Centre for Human Psychopharmacology.
+* COEST - Centre for Ocean Engineering, Science and Technology
 * SISR - Swinburne Institute for Social Research
-* DBHS - Department for Behavioural Sciences
+* DBHS - Department of Biomedical and Health Sciences
 * CTI - Centre for Transformative Innovation
+* EBC - Environment and Biotechnology Centre
 
-This script (participants.html) and template data (participants_template.csv) for generating the above plot can be downloaded from this [resources  repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
+The script (participants.html) for generating the above plot, and example data (participants_template.csv), can be downloaded from this [resources  repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
 
 
 
