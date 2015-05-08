@@ -23,17 +23,26 @@ The structure of the workshop was mix og guided teaching with challenges thrown 
 
 #### Lesson Plans
 
-Below are the detailed lesson plans for researchers and PhD students wishing to go through the course again in their own time. Simply open up a terminal and launch Python or iPython notebook.  
+Below are the detailed lesson plans for researchers and PhD students wishing to go through the course again in their own time. Simply open up a terminal and launch Python or iPython notebook. If you have forgotton what was installed or how to launch programs review the [setup and testing notes](http://drarnakarick.github.io/2015-05-04-swinpython/setup/index.html). 
 
 * Unix shell lesson plan: [shell-novice](http://swcarpentry.github.io/shell-novice/).
 * Python lesson plan: [python-novice-inflammation](http://swcarpentry.github.io/python-novice-inflammation/).
 * Version control with git lesson plan: [git-novice](http://swcarpentry.github.io/git-novice/).
 
+Also, here are few short presentations about the Unix shell, Python and version control, and the motivation for teaching them.
+
+* [Why learn about the unix shell?](http://swcarpentry.github.io/shell-novice/motivation.html)
+* [Why learn Python?](http://swcarpentry.github.io/python-novice-inflammation/motivation.html)
+* [Why learn about the version control?](http://swcarpentry.github.io/git-novice/motivation.html)
+
 #### Reference Pages
 
-* [Reference page for the Unix Shell](http://software-carpentry.org/v5/novice/ref/01-shell.html).
-* [Reference page for Programming in Python](http://software-carpentry.org/v5/novice/ref/03-python.html).
-* [Reference page for Version Control with Git](http://software-carpentry.org/v5/novice/ref/02-git.html).
+* [Reference page for the Unix Shell](http://swcarpentry.github.io/shell-novice/reference.html)
+* [Cheat sheet for the Unix Shell](http://software-carpentry.org/v5/novice/ref/01-shell.html).
+* [Reference page for Programming in Python](http://swcarpentry.github.io/git-novice/reference.html)
+* [Cheat sheet for Python](http://software-carpentry.org/v5/novice/ref/03-python.html).
+* [Reference page for Version Control with Git](http://swcarpentry.github.io/git-novice/reference.html)
+* [Cheat sheet for Git](http://software-carpentry.org/v5/novice/ref/02-git.html).
 
 #### Profile of workshop participants
 
