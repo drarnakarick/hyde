@@ -57,7 +57,7 @@
   position: relative;
   /*position: absolute;*/
   width: 140px;
-  top: 350px;
+  top: 300px;
   color: #666;
   z-index: 3;
   margin-right: auto;
@@ -92,7 +92,7 @@
 <div id="main" class="bd" align="center">
         <div id="chart">
         	<div id="intro" style="visibility: visible;"> 
-            	<span id="introtitle">Profile of Participants</span>
+            	<span id="introtitle">Profile of participants</span>
             	<span id="introtext">Mouseover segments to explore.</span>
         	</div>
         	<div id="explanation" style="visibility: visible;"> 
@@ -231,7 +231,7 @@ function mouseover(d) {
 	
 	d3.select("#text")
 	  .text(function() {
-		  	var t = "of researchers are ";
+		  	var t = "of participants are ";
 				
 			for(var i=0; i<3; i++)
 			{
@@ -250,7 +250,6 @@ function mouseover(d) {
   d3.select("#explanation")
       .style("visibility", "");
 	  
-
   updateBreadcrumbs(sequenceArray, percentageString);
 
   // Fade all the segments.
