@@ -37,7 +37,7 @@ Also, here are few short presentations about the Unix shell, Python and version 
 
 #### Reference Pages
 
-* Unix shell: [reference page](http://swcarpentry.github.io/shell-novice/reference.html),[cheat sheet](http://software-carpentry.org/v5/novice/ref/01-shell.html).
+* Unix shell: [reference page](http://swcarpentry.github.io/shell-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/01-shell.html).
 * Python: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/03-python.html).
 * Version control - Git: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/02-git.html).
 
