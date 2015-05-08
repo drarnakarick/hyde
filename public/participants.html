@@ -144,7 +144,8 @@ var colors = {
   "CHP": "#fd7d3c",  
   "CFBS": "#fd8d3c",  
   "CDI": "#fd9d3c",
-  "SDF": "#fd9d3c",
+  "SDF": "#fdad3c",
+  "DBHS": "#fdbd3c",
   "CTI": "#02ae67",
   "CSIS": "#03c776",
   "none": "#ffffff"
@@ -172,7 +173,7 @@ var arc = d3.svg.arc()
 
 // Use d3.text and d3.csv.parseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.text("participants_template.csv", function(text) {
+d3.text("participants.csv", function(text) {
   var csv = d3.csv.parseRows(text);
   var json = buildHierarchy(csv);
   createVisualization(json);
