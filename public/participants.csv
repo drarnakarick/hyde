@@ -25,8 +25,9 @@ Female-FBL-CSIS,0
 Female-FBL-none,0
 Female-other,1
 Male-FSET-CAS-PhD,2
-Male-FSET-CAS-researcher,2
-Male-FSET-CMP,4
+Male-FSET-CAS-Researcher,1
+Male-FSET-CMP-PhD,2
+Male-FSET-CMP-Researcher,2
 Male-FSET-COEST,0
 Male-FSET-SUCCESS,0
 Male-FSET-CQOS,0
@@ -35,7 +36,7 @@ Male-FSET-SSIL,0
 Male-FSET-ITSL,0
 Male-FSET-CAIA,0
 Male-FSET-CSI,0
-Male-FSET-EBC,1
+Male-FSET-EBC-Researcher,1
 Male-FSET-none,1
 Male-FHAD-SISR,1
 Male-FHAD-BPsyC,0
@@ -45,7 +46,8 @@ Male-FHAD-CFBS,0
 Male-FHAD-SDF,0
 Male-FHAD-DBHS,0
 Male-FHAD-none,0
-Male-FBL-CTI,3
+Male-FBL-CTI-Researcher,2
+Male-FBL-CTI-PhD,1
 Male-FBL-CSIS,0
 Male-FBL-none,1
 Male-other,0
