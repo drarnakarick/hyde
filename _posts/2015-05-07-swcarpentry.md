@@ -20,7 +20,7 @@ Earlier this week we ran the first two-day Unix/Python workshop for PhD students
 
 Thirty-five people registered for the workshop.
 
-<iframe width="700px" height="500px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="700px" height="400px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
 This script (participants.html) and data (participants.csv) used to generate the above plot can be downloaded from this [resources repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was created by [@evilangelpixie](http://twitter.com/evilangelpixie) and is based on the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
