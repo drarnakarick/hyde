@@ -56,9 +56,7 @@ Also, here are few short presentations about the Unix shell, Python and version 
 Thirty people attended part or all of the workshop. Roughly half the participants were women, with an even split between PhD students (light grey - outer ring) and established research postdocs and staff (dark grey - outer ring). 
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-Research Group/Department:
-
+<strong>Research Group/Department:</strong>
 * CAS - Centre for Astrophysics and Supercomputing
 * CMP - Centre for Micro-Photonics
 * BPsyC - Brain and Psychological Sciences Research Centre
