@@ -3,7 +3,6 @@ layout: post
 title: Two-day Unix/Python Workshop Wrap-up
 ---
 
-
 #### Workshop review
 <em>by Arna Karick</em>
 
@@ -40,6 +39,18 @@ Also, here are few short presentations about the Unix shell, Python and version 
 * Unix shell: [reference page](http://swcarpentry.github.io/shell-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/01-shell.html).
 * Python: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/03-python.html).
 * Version control - Git: [reference page](http://swcarpentry.github.io/git-novice/reference.html), [cheat sheet](http://software-carpentry.org/v5/novice/ref/02-git.html).
+
+
+#### Most importantly... keep programming!
+
+Here are some ideas how:
+
+* Keep in touch with your fellow workshop participants. 
+* Practise by working on small programs/data analysis with researchers in your own group/field.
+* Attend the next Software Carpentry workshop, at Swinburne or Melbourne Uni. 
+* Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/).
+* Come along to e-Research coffee and meet fellow students and researchers interested in data analysis and visualisation. Thursday's, 3pm at Haddons.
+
 
 #### Profile of workshop participants
 
