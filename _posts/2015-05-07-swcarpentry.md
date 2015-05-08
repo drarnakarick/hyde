@@ -49,9 +49,24 @@ Also, here are few short presentations about the Unix shell, Python and version 
 * Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/) and start a project using your Python skills.
 * Network. Meet fellow students and researchers interested in data analysis and visualisation. e-Research Coffee is every Thursday - 3pm at Haddons.
 
-## Some statistics:  Profile of workshop participants
+## Some statistics:  
+
+#### Profile of workshop participants
+
+Thirty people attended part or all of the workshop. Roughly half the participants were women, with an even split between PhD students (light grey - outer ring) and established research postdocs and staff (dark grey - outer ring). 
 
 <iframe width="700px" height="700px" src="http://drarnakarick.github.io/software-carpentry-resources/public/participants.html" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
+Breakdown of participants by Research Group/Department:
+
+* CAS - Centre for Astrophysics &amp; Supercomputing
+* CMP - Centre for Micro-Photonics
+* BPsyC - Brain and Psychological Sciences Research Centre
+* CHP - Centre for Human Psychophamacology.
+* COEST - Centre for Ocean Engineering
+* SISR - Swinburne Institute for Social Research
+* DBHS - Department for Behavioural Sciences
+* CTI - Centre for Transformative Innovation
 
 This script (participants.html) and template data (participants_template.csv) for generating the above plot can be downloaded from this [resources  repository](http://drarnakarick.github.io/2015-05-04-swinpython/public/participants.csv). The template was provided by [@evilangelpixie](http://twitter.com/evilangelpixie) and is a modified version of the [Sequences Sunburst](http://bl.ocks.org/kerryrodden/7090426) template. 
 
