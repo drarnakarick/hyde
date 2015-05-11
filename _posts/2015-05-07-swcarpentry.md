@@ -24,7 +24,7 @@ The structure of the workshop was mix of guided teaching with challenges thrown 
 
 #### Lesson Plans
 
-Below are the detailed lesson plans for researchers and PhD students wishing to go through the course again in their own time. Simply open up a terminal and launch Python or iPython notebook. If you have forgotton what was installed or how to launch programs review the [setup and testing notes](http://drarnakarick.github.io/2015-05-04-swinpython/setup/index.html). 
+Below are the detailed lesson plans for researchers and PhD students wishing to go through the course again in their own time. Simply open up a terminal and launch Python or iPython notebook. If you've forgotton what was installed or how to launch programs review the [setup and testing notes](http://drarnakarick.github.io/2015-05-04-swinpython/setup/index.html). 
 
 * Unix shell lesson plan: [shell-novice](http://swcarpentry.github.io/shell-novice/).
 * Python lesson plan: [python-novice-inflammation](http://swcarpentry.github.io/python-novice-inflammation/).
@@ -46,7 +46,7 @@ Also, here are few short presentations about the Unix shell, Python and version 
 
 * Keep in touch with your fellow workshop participants. 
 * Practise by working on small programs/data analysis with researchers in your own group/field.
-* Attend the next Software Carpentry workshop. Melbourne Unis is running a [Python workshop](http://resbaz.github.io/2015-05-25-unimelb/)  on the 25th & 26th May.
+* Attend the next Software Carpentry workshop. Melbourne University is running a [Python workshop](http://resbaz.github.io/2015-05-25-unimelb/) on the 25th &amp; 26th May.
 * Come along to [Swinburne Hacker Within](http://thehackerwithin.github.io/swinburne/) and start a project using your Python skills.
 * Network. Meet fellow students and researchers interested in data analysis and visualisation. e-Research Coffee is every Thursday - 3pm at Haddons.
 
