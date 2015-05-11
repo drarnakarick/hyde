@@ -18,7 +18,9 @@ The first session on the Unix shell was a little hit and miss I think - mainly b
 
 Python was our language of choice, because it’s free, intuitive and popular, especially in the physical sciences. It's also a useful (and often expected) language for those who want to move into the tech industry. This did not mean that only Python users (or potential users) would benefit from this particular workshop. Since the focus is on learning general programming skills that are transferable to any language, learning Python basics is a good place to start. We covered the most useful elements of programming; manipulating data, plotting, using loops and conditional statements ("for", "if", "else" etc.) and functions. 
 
-The structure of the workshop was mix og guided teaching with challenges thrown in along the way. Participants were encouraged to work in small groups and discuss ideas.  Of course we spent more time on each session than originally planned, but this seems to be typical of Software Captentry courses - too much (great!) material, too little time. 
+The structure of the workshop was mix of guided teaching with challenges thrown in along the way. Participants were encouraged to work in small groups and discuss ideas.  Of course we spent more time on each session than originally planned, but this seems to be typical of Software Captentry courses - too much (great!) material, too little time. 
+
+<strong>Thanks to: </strong> Research Information Services for supporting this event.
 
 #### Lesson Plans
 
