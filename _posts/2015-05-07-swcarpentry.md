@@ -8,7 +8,7 @@ title: Two-day Unix/Python Workshop Wrap-up
 
 Workshop website:  <a href="http://drarnakarick.github.io/2015-05-04-swinpython/">May 4th &amp; 5th 2015</a>
 
-Earlier this week we ran our first two-day Unix/Python workshop for PhD students and research staff interested in getting started with Python. The was led by Swinburne Univeristy's newly minted Software Carpentry instructors, Ewan Barr and Genevieve Shattow, with help from a small team of unix and python experts from the Centre of Astrophysics and Supercomputing.
+Earlier this week we ran our first two-day Unix/Python workshop for PhD students and research staff interested in getting started with Python. The was led by Swinburne Univeristy's newly minted Software Carpentry instructors, Ewan Barr and Genevieve Shattow, with help from a small team of unix and python experts from the Centre of Astrophysics and Supercomputing. 
 
 Since this workshop was designed to teach general python skills participants came from a variety of research disciplines (see below for an interactive profile of participants). Consequently there was a large spread in programming experience and ability (and even operating system). 
 
